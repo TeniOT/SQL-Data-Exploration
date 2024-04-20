@@ -2,6 +2,9 @@
 
 This project is aimed at developing my skills in using SQL for Data exploration and Develop Queries
 
+![SQL Server Image](https://github.com/TeniOT/SQL-Data-Exploration/assets/164643376/ca28cb3e-e1a7-42b4-80ea-c502b4c352f5)
+
+
 ## Tools
 - SQL Server (Microsoft SQL Server Management Studio (SSMS) v. 20.1
 - [Our World Data](https://ourworldindata.org/covid-deaths)
