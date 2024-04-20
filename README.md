@@ -1,6 +1,6 @@
 # USING SQL FOR DATA EXPLORATION 
 
-- This project is aimed at developing my skills in using SQL for Data exploration and Develop Queries
+This project is aimed at developing my skills in using SQL for Data exploration and Develop Queries
 
 ## Tools
 - SQL Server (Microsoft SQL Server Management Studio (SSMS) v. 20.1
