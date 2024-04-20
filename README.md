@@ -2,7 +2,7 @@
 
 This project is aimed at developing my skills in using SQL for Data exploration and Develop Queries
 
-![SQL Server Image](https://github.com/TeniOT/SQL-Data-Exploration/assets/164643376/ca28cb3e-e1a7-42b4-80ea-c502b4c352f5)
+![SQL Server Image](https://github.com/TeniOT/SQL-Data-Exploration/assets/164643376/898bb6b7-d409-4cc6-8160-1fcb3eaaa5dd)
 - [Image from Windows Report](https://windowsreport.com/sql-backup-software/)
 
 ## Tools
