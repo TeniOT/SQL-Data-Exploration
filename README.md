@@ -111,5 +111,5 @@ order by 2,3 desc
 - Importing dataset to SSMS required a different route than usual step
 - Dataset values were in 'FLOAT' datatype format and requeired to be converted when 'NULL'
 
-## Referances
+## References
 - [Alex the Analyst](https://www.youtube.com/watch?v=qfyynHBFOsM)
