@@ -2,8 +2,9 @@
 
 This project is aimed at developing my skills in using SQL for Data exploration and Develop Queries
 
-![SQL Server Image](https://github.com/TeniOT/SQL-Data-Exploration/assets/164643376/898bb6b7-d409-4cc6-8160-1fcb3eaaa5dd)
-- [Image from Windows Report](https://windowsreport.com/sql-backup-software/)
+![Tableau Viz - Covid project resize](https://github.com/TeniOT/SQL-Data-Exploration/assets/164643376/bf527495-6e05-4502-96c9-c6323290cae3)
+
+
 
 ## Tools
 - SQL Server (Microsoft SQL Server Management Studio (SSMS) v. 20.1
